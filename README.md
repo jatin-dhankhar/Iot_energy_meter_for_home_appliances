@@ -1,6 +1,6 @@
 # iot_application_energy_meter
 
-A new Flutter application that works with a Smart IOT Energy Meter .
+In this project, I made an app for Smart Electricity Energy meter using Flutter which can not only send you a Notification/Email of your electricity Bill but also you can monitor the energy uses anytime and from anywhere in the world. This smart energy meter app also alerts the consumer and utility when the energy consumption exceeds the set limit and the disconnection and reconnection of power.
 
 ## Getting Started
 
