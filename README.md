@@ -1,6 +1,6 @@
 # iot_application_energy_meter
 
-A new Flutter application for working in  IOT Energy meter .
+A new Flutter application thats works as Smart IOT Energy Meter .
 
 ## Getting Started
 
